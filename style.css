@@ -1,0 +1,49 @@
+/* Styles */
+body {
+  font-family: Roboto;
+  font-size: 12pt;
+  background-color: #DAFFDC;
+  color: #203B22;
+}
+.email {
+  width: 10em;
+}
+.name {
+  width: 7em;
+}
+.misc {
+  width: 6em;
+}
+div.add_form{
+  width: 8em;
+  padding: 5px;
+  clear: both;
+  line-height: 20px;
+}
+label {
+  float: left;
+  padding-right: 7px;
+}
+input:focus{
+  background-color: #BADEFD;
+  border: 1px;
+}
+div.form_cr{
+  padding: 10px;
+}
+div.page {
+  padding-left: 0.1em;
+  padding-right: 0.1em;
+  display: inline-block;
+}
+div.dots {
+  padding-left: 0.1em;
+  padding-right: 0.1em;
+  display: inline-block;
+}
+.invalid {
+  background-color: #FFE2F0;
+}
+
+
+
